@@ -1,5 +1,8 @@
 # My-restaurant
 this is a design for restaurant that serves spicy meals.
 
-![design](restaurantdesign.jpg)
+#### wireframe for home page 
+![design](restaurant design.jpg)
+
+
 
